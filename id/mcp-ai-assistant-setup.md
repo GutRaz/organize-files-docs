@@ -4,7 +4,7 @@ Tim berlisensi menghubungkan **OrganizeFiles.Cli** ke Claude Desktop, **Cursor**
 
 **Di aplikasi desktop:** buka **Penyiapan MCP…** di bawah **Aplikasi & data** di kolom opsi, atau dari menu alat. Pilih **akses MCP**: **Mati**, **Monitor**, atau **Kontrol**. Lalu salin cuplikan JSON. Muat ulang MCP di aplikasi AI setiap kali tingkat diubah, karena **Kontrol** membuat token baru setiap kali.
 
-**Tanyakan kepada asisten dokumentasi** “setup mcp” atau “cum setez mcp” untuk langkah-langkah pada sistem saat ini.
+**Tanyakan kepada asisten dokumentasi** “setup mcp” atau “cara setup mcp” untuk langkah-langkah pada sistem saat ini.
 
 ## Tingkat akses MCP, diatur di aplikasi
 

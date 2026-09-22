@@ -4,7 +4,7 @@ Lisanslı ekipler **OrganizeFiles.Cli** aracını Claude Desktop, **Cursor**, VS
 
 **Masaüstü uygulamasında:** seçenekler sütununda **Uygulama ve veriler** altındaki veya araçlar menüsündeki **MCP kurulumu…** öğesini açın. **MCP erişimi** için bir düzey seçin: **Kapalı**, **Monitör** veya **Denetim**. Ardından JSON parçasını kopyalayın. Her düzey değişikliğinden sonra yapay zeka uygulamasında MCP'yi yeniden yükleyin, çünkü **Denetim** her seferinde yeni bir belirteç oluşturur.
 
-**Dokümantasyon asistanına** geçerli sistemdeki adımlar için "setup mcp" veya "cum setez mcp" diye sorun.
+**Dokümantasyon asistanına** geçerli sistemdeki adımlar için "setup mcp" veya "mcp kurulum" diye sorun.
 
 ## Uygulamada ayarlanan MCP erişim düzeyleri
 

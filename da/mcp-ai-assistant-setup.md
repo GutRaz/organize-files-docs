@@ -4,7 +4,7 @@ Licenserede teams forbinder **OrganizeFiles.Cli** med Claude Desktop, **Cursor**
 
 **I skrivebordsappen:** åbn **MCP opsætning...** under **Applikation & data** i indstillingskolonnen eller fra værktøjsmenuen. Vælg **MCP adgang**: **Fra**, **Monitor** eller **Kontrol**. Kopier derefter JSON-kodestykket. Genindlæs MCP i AI-appen efter hver ændring af niveau, fordi **Kontrol** laver et nyt token hver gang.
 
-**Spørg dokumentationsassistenten** »setup mcp« eller »cum setez mcp« om trinene på det aktuelle system.
+**Spørg dokumentationsassistenten** »setup mcp« eller »konfigurere mcp« om trinene på det aktuelle system.
 
 ## MCP-adgangsniveauer, indstillet i appen
 

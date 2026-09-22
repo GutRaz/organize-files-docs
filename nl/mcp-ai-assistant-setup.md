@@ -4,7 +4,7 @@ Teams met een licentie verbinden **OrganizeFiles.Cli** met Claude Desktop, **Cur
 
 **In de desktop-app:** open **MCP-installatie…** onder **Toepassing & gegevens** in de optiekolom, of vanuit het gereedschapsmenu. Kies **MCP-toegang**: **Uit**, **Monitor** of **Controle**. Kopieer daarna het JSON-fragment. Laad MCP opnieuw in de AI-app na elke wijziging van niveau, want **Controle** maakt elke keer een nieuw token.
 
-**Vraag de documentatieassistent** “setup mcp” of “cum setez mcp” voor de stappen op het huidige systeem.
+**Vraag de documentatieassistent** “setup mcp” of “mcp instellen” voor de stappen op het huidige systeem.
 
 ## MCP-toegangsniveaus, ingesteld in de app
 

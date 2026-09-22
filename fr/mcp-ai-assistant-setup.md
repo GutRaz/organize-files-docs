@@ -4,7 +4,7 @@ Les équipes sous licence connectent **OrganizeFiles.Cli** à Claude Desktop, **
 
 **Dans l'application de bureau :** ouvrez **Configuration MCP…** sous **Application et données** dans la colonne des options, ou depuis le menu des outils. Choisissez **Accès MCP** : **Désactivé**, **Moniteur** ou **Contrôle**. Copiez ensuite l'extrait JSON. Rechargez MCP dans l'application d'IA après chaque changement de niveau, car **Contrôle** crée un nouveau jeton à chaque fois.
 
-**Demandez à l'assistant de documentation** « setup mcp » ou « cum setez mcp » pour les étapes sur le système actuel.
+**Demandez à l'assistant de documentation** « setup mcp » ou « comment configurer mcp » pour les étapes sur le système actuel.
 
 ## Niveaux d'accès MCP, réglés dans l'application
 

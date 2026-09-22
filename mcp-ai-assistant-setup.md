@@ -6,7 +6,7 @@ Licensed teams connect **OrganizeFiles.Cli** to Claude Desktop, **Cursor**, VS C
 
 **In the desktop app:** open **MCP setup…** under **Application & data** in the options column, or from the tools menu. Choose **MCP access**: **Off**, **Monitor** or **Control**. Then copy the JSON snippet. Reload MCP in the AI app after every change of level, because **Control** makes a new token each time.
 
-**Ask the documentation assistant** "setup mcp" or "cum setez mcp" for the steps on the current system.
+**Ask the documentation assistant** "setup mcp" for the steps on the current system.
 
 ## MCP access levels, set in the app
 
