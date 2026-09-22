@@ -4,7 +4,7 @@ Licencované týmy připojují **OrganizeFiles.Cli** k Claude Desktop, **Cursor*
 
 **V desktopové aplikaci:** otevřete **Nastavení MCP…** ve skupině **Aplikace a data** ve sloupci možností nebo z nabídky nástrojů. Zvolte **MCP přístup**: **Vypnuto**, **Monitor** nebo **Kontrola**. Pak zkopírujte fragment JSON. Po každé změně úrovně znovu načtěte MCP v aplikaci AI, protože úroveň **Kontrola** pokaždé vytvoří nový token.
 
-**Zeptejte se asistenta dokumentace** „setup mcp“ nebo „cum setez mcp“ a dostanete kroky pro aktuální systém.
+**Zeptejte se asistenta dokumentace** „setup mcp“ nebo „jak nastavit mcp“ a dostanete kroky pro aktuální systém.
 
 ## Úrovně přístupu MCP, nastavené v aplikaci
 

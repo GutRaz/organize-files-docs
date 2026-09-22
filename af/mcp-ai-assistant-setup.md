@@ -4,7 +4,7 @@ Gelisensieerde spanne koppel **OrganizeFiles.Cli** aan Claude Desktop, **Cursor*
 
 **In die rekenaartoepassing:** maak **MCP-opstelling …** oop onder **Toepassing en data** in die opsiekolom, of vanuit die gereedskapkieslys. Kies **MCP toegang**: **Af**, **Monitor** of **Beheer**. Kopieer dan die JSON-brokkie. Herlaai MCP in die KI-toepassing ná elke verandering van vlak, want **Beheer** maak elke keer 'n nuwe token.
 
-**Vra die dokumentasie-assistent** “setup mcp” of “cum setez mcp” vir die stappe op die huidige stelsel.
+**Vra die dokumentasie-assistent** “setup mcp” of “stel mcp op” vir die stappe op die huidige stelsel.
 
 ## MCP-toegangsvlakke, ingestel in die toepassing
 

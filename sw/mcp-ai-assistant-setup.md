@@ -4,7 +4,7 @@ Timu zenye leseni huunganisha **OrganizeFiles.Cli** na Claude Desktop, **Cursor*
 
 **Katika programu ya kompyuta:** fungua **Mpangilio wa MCP...** chini ya **Programu na data** kwenye safu ya chaguo, au kutoka kwenye menyu ya zana. Chagua **ufikiaji wa MCP**: **Imezimwa**, **Ufuatiliaji** au **Udhibiti**. Kisha nakili kijisehemu cha JSON. Pakia upya MCP katika programu ya AI baada ya kila badiliko la kiwango, kwa sababu **Udhibiti** hutengeneza tokeni mpya kila mara.
 
-**Uliza msaidizi wa nyaraka** “setup mcp” au “cum setez mcp” ili kupata hatua za mfumo wa sasa.
+**Uliza msaidizi wa nyaraka** “setup mcp” au “usanidi wa mcp” ili kupata hatua za mfumo wa sasa.
 
 ## Viwango vya ufikiaji wa MCP, vinavyowekwa katika programu
 

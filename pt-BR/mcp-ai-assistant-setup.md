@@ -4,7 +4,7 @@ Equipes licenciadas conectam o **OrganizeFiles.Cli** ao Claude Desktop, ao **Cur
 
 **No aplicativo de desktop:** abra **Configuração do MCP…** em **Aplicativo e dados**, na coluna de opções, ou pelo menu de ferramentas. Escolha **Acesso MCP**: **Desligado**, **Monitor** ou **Controle**. Depois copie o trecho JSON. Recarregue o MCP no aplicativo de IA após cada mudança de nível, porque **Controle** cria um novo token a cada vez.
 
-**Pergunte ao assistente de documentação** “setup mcp” ou “cum setez mcp” para ver os passos no sistema atual.
+**Pergunte ao assistente de documentação** “setup mcp” ou “como configurar mcp” para ver os passos no sistema atual.
 
 ## Níveis de acesso MCP, definidos no aplicativo
 

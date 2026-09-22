@@ -4,7 +4,7 @@ Az engedéllyel rendelkező csapatok az **OrganizeFiles.Cli** programot a Claude
 
 **Az asztali alkalmazásban:** nyissa meg az **MCP beállítás…** ablakot az **Alkalmazás és adatok** csoportban a beállítások oszlopában, vagy az eszközök menüből. Válassza ki az **MCP hozzáférés** szintjét: **Ki**, **Monitor** vagy **Vezérlés**. Ezután másolja ki a JSON-kódrészletet. Minden szintváltás után töltse be újra az MCP-t az AI-alkalmazásban, mert a **Vezérlés** minden alkalommal új tokent készít.
 
-**Kérdezze meg a dokumentációs asszisztenst**: „setup mcp” vagy „cum setez mcp”, és megkapja az aktuális rendszer lépéseit.
+**Kérdezze meg a dokumentációs asszisztenst**: „setup mcp” vagy „mcp beállítás”, és megkapja az aktuális rendszer lépéseit.
 
 ## MCP hozzáférési szintek, az alkalmazásban beállítva
 

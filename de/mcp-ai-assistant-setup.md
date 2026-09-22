@@ -4,7 +4,7 @@ Lizenzierte Teams verbinden **OrganizeFiles.Cli** mit Claude Desktop, **Cursor**
 
 **In der Desktop-App:** Öffnen Sie **MCP-Setup…** unter **Anwendung & Daten** in der Optionsspalte oder im Werkzeugmenü. Wählen Sie **MCP-Zugriff**: **Aus**, **Monitor** oder **Kontrolle**. Kopieren Sie dann das JSON-Snippet. Laden Sie MCP in der KI-App nach jedem Wechsel der Stufe neu, denn **Kontrolle** erzeugt jedes Mal ein neues Token.
 
-**Fragen Sie den Dokumentationsassistenten** „setup mcp“ oder „cum setez mcp“ nach den Schritten für das aktuelle System.
+**Fragen Sie den Dokumentationsassistenten** „setup mcp“ oder „mcp konfigurieren“ nach den Schritten für das aktuelle System.
 
 ## MCP-Zugriffsstufen, in der App eingestellt
 

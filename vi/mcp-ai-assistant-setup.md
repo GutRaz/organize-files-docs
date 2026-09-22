@@ -4,7 +4,7 @@ Các nhóm có giấy phép kết nối **OrganizeFiles.Cli** với Claude Deskt
 
 **Trong ứng dụng máy tính:** mở **Thiết lập MCP…** trong **Ứng dụng & dữ liệu** ở cột tùy chọn, hoặc từ menu công cụ. Chọn **quyền truy cập MCP**: **Tắt**, **Giám sát** hoặc **Kiểm soát**. Sau đó sao chép đoạn JSON. Tải lại MCP trong ứng dụng AI sau mỗi lần đổi mức, vì **Kiểm soát** tạo mã thông báo mới mỗi lần.
 
-**Hỏi trợ lý tài liệu** “setup mcp” hoặc “cum setez mcp” để xem các bước cho hệ thống hiện tại.
+**Hỏi trợ lý tài liệu** “setup mcp” hoặc “cách cấu hình mcp” để xem các bước cho hệ thống hiện tại.
 
 ## Các mức truy cập MCP, đặt trong ứng dụng
 

@@ -4,7 +4,7 @@ Lisensoidut tiimit yhdistävät **OrganizeFiles.Cli** -ohjelman johonkin näist�
 
 **Työpöytäsovelluksessa:** avaa **MCP-asetukset…** kohdasta **Sovellus ja tiedot** asetussarakkeessa tai työkaluvalikosta. Valitse **MCP-yhteys**: **Pois päältä**, **Seuranta** tai **Hallinta**. Kopioi sitten JSON-koodinpätkä. Lataa MCP uudelleen tekoälysovelluksessa jokaisen tason muutoksen jälkeen, koska **Hallinta** luo joka kerta uuden tunnuksen.
 
-**Kysy ohjeavustajalta** ”setup mcp” tai ”cum setez mcp”, niin saat nykyisen järjestelmän vaiheet.
+**Kysy ohjeavustajalta** ”setup mcp” tai ”mcp asennus”, niin saat nykyisen järjestelmän vaiheet.
 
 ## MCP-käyttötasot, jotka asetetaan sovelluksessa
 

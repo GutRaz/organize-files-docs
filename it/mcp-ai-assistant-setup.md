@@ -4,7 +4,7 @@ I team con licenza collegano **OrganizeFiles.Cli** a Claude Desktop, **Cursor**,
 
 **Nell'app desktop:** apri **Configurazione MCP…** in **Applicazione e dati** nella colonna delle opzioni, oppure dal menu degli strumenti. Scegli **Accesso MCP**: **Spento**, **Monitor** o **Controllo**. Poi copia il frammento JSON. Ricarica MCP nell'app di IA dopo ogni cambio di livello, perché **Controllo** crea ogni volta un nuovo token.
 
-**Chiedi all'assistente della documentazione** «setup mcp» o «cum setez mcp» per i passaggi sul sistema in uso.
+**Chiedi all'assistente della documentazione** «setup mcp» o «come configuro mcp» per i passaggi sul sistema in uso.
 
 ## Livelli di accesso MCP, impostati nell'app
 
