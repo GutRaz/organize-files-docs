@@ -10,10 +10,12 @@ Legal documents, such as the licence terms, the privacy policy and the third-par
 | ----- | -------------- |
 | [AI assistant and MCP](mcp-ai-assistant-setup.md) | Connecting Claude Desktop, Cursor, VS Code Copilot or another MCP app to Organize Files, in every language of the app |
 | [AI connector](mcp/README.md) | The files and the install scripts of the connector |
-| [Performance and tuning](performance-and-tuning.md) | Being rewritten in plain language |
-| [Automation server deployment](automation-server-deployment.md) | Being rewritten in plain language |
-| [Enterprise operations](automation-enterprise-operations.md) | Being rewritten in plain language |
-| [Containers and Kubernetes](containers-and-kubernetes.md) | Being rewritten in plain language |
+| [Performance and tuning](performance-and-tuning.md) | Each setting under Advanced / Diagnostics: threads, dedupe mode, network sources, resume |
+| [Automation server deployment](automation-server-deployment.md) | Running Organize Files from the command line, with examples |
+| [Enterprise operations](automation-enterprise-operations.md) | Prometheus and Grafana monitoring, the run output and its metrics |
+| [Containers and Kubernetes](containers-and-kubernetes.md) | What Docker and Kubernetes jobs need, where files are mounted, and the ready-made files |
+
+These four guides are chapters of the guide inside the app, in the same words. English is here, and each other language is in its own folder. They are written from the app, so a correction goes into the app's chapter and the guide follows it.
 
 ## Systems
 
